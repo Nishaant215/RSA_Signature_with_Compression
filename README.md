@@ -7,5 +7,7 @@ Then compression is applied to the encoded number set. Next apply the RSA signat
 
 Review the **RSADigitalSignature_Redacted.pdf** to understand the algorithm.
 
+Run the script: **RSA_Signature_Compression.py**
+
 ![alt text](https://github.com/Nishaant215/RSA_Signature_with_Compression/blob/main/RSA_Signature_Part1.png)
 ![alt text](https://github.com/Nishaant215/RSA_Signature_with_Compression/blob/main/RSA_Signature_Part2.png)
